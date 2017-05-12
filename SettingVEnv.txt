@@ -1,0 +1,12 @@
+##Instructions for creating a virtual environment
+
+python -m virtualenv flask
+Then you activate your virtualenv like this:
+
+source flask/bin/activate
+Then install flask with pip inside the virtualenv
+
+pip install flask
+If you want to deactivate your virtualenv, simply type:
+
+deactivate
